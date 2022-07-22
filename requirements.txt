@@ -1,4 +1,4 @@
 streamlit
 streamlit_option_menu
-pickle
+pickle-mixin==1.0.2
 python ==3.9.7
