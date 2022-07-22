@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run .\multiple disease pred.py'
+web: sh setup.sh && streamlit run '.\multiple disease pred.py'
